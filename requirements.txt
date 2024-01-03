@@ -1,0 +1,2 @@
+flask==1.1.2
+roboflow==0.1.3

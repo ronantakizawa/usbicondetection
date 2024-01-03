@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['usb']
+
+roboflow:
+  workspace: ronan-takizawa-c6iem
+  project: usbicon
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/ronan-takizawa-c6iem/usbicon/dataset/3
